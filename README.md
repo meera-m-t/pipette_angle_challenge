@@ -14,7 +14,7 @@ Input: Image + segmentation mask → Output: Angle of the pipette tip
 
 I had only **9 images** from different angles, distances, and lighting.
 
-1. Uploaded images to [Roboflow](https://roboflow.com)
+1. Uploaded images to [Roboflow](https://roboflow.com)(SAM detection model)
 2. Used **Smart Polygon** tool (auto-annotation with pre-trained model)
 3. Made small fixes where needed
 4. Exported as **YOLOv8 format** → Got the `.txt` label files

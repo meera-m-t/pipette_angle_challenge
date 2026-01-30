@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['pipette']
+
+roboflow:
+  workspace: poly-gjcox
+  project: test-123-dc8es
+  version: 2
+  license: Private
+  url: https://app.roboflow.com/poly-gjcox/test-123-dc8es/2

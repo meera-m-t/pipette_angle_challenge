@@ -24,7 +24,7 @@ No manual drawing needed - Roboflow's pre-trained model did most of the work.
 ---
 
 ## How It Works
-
+video: https://www.loom.com/share/2e5cdac43adc4567a5c98d7f70cbce22
 ### Step 1: Create Mask
 Convert polygon annotation to binary mask.
 
